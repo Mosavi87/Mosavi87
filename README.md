@@ -20,3 +20,7 @@ Here are some ideas to get you started:
     <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Mosavi87&theme=onedark&hide_border=true"/>
     </a>
+    
+ <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosavi87&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+    </a>
