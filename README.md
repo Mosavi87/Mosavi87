@@ -20,5 +20,3 @@ Here are some ideas to get you started:
     <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Mosavi87&theme=onedark&hide_border=true"/>
     </a>
-    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mosavi87&theme=vue&hide_border=true)](https://git.io/streak-stats)
