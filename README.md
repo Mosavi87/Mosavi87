@@ -20,10 +20,3 @@ Here are some ideas to get you started:
     <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Mosavi87&theme=onedark&hide_border=true"/>
     </a>
- Last Updated on 30/11/2022 02:15:19 UTC
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@Mosavi87/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@Mosavi87/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-</p>
