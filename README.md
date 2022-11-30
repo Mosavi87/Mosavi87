@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Mosavi87&theme=onedark&hide_border=true"/>
     </a>
-
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : _𝙸𝚝 𝙴𝚗𝚍𝚜._**
+<!-- 
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : _𝙸𝚝 𝙴𝚗𝚍𝚜._** -->
