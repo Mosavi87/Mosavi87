@@ -2,7 +2,7 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30" />
 </h1>
-<span>### Visitor count</span> <img src="https://profile-counter.glitch.me/mosavi87/count.svg" />
+<h3>### Visitor count</h3> <img src="https://profile-counter.glitch.me/mosavi87/count.svg" />
 <img
     align="right"
     height="300"
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Mosavi87&theme=onedark&hide_border=true"/>
     </a>
-    ## Contribution Graph 📊
+    <h3>## Contribution Graph 📊</h3>
 
 <img
      src="https://activity-graph.herokuapp.com/graph?username=mosavi87&theme=chartreuse-dark"
