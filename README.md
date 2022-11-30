@@ -2,7 +2,7 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30" />
 </h1>
-<h3>### Visitor count <img src="[https://profile-counter.glitch.me/mosavi87/count.svg](https://giphy.com/embed/PKl9JTqnoiKtO)" /></h3>
+<h3>### Visitor count <iframe src="https://giphy.com/embed/PKl9JTqnoiKtO" width="40" height="40" frameBorder="0" class="giphy-embed" ></iframe></h3>
 <img src="https://profile-counter.glitch.me/mosavi87/count.svg" />
 <br />
 <img
