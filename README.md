@@ -1,7 +1,7 @@
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! 
 </h1>
-
+<img src="https://profile-counter.glitch.me/mosavi87/count.svg" />
 <br />
 <br />
 
