@@ -35,7 +35,9 @@ Here are some ideas to get you started:
 <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Mosavi87&theme=onedark&hide_border=true"/>
     </a>
-    <img src="https://github-profile-trophy.vercel.app/?Mosavi87=ryo-ma&margin-w=15" alt="Mosavi87" />
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mosavi87&label=Profile%20views&color=0e75b6&style=flat" alt="Mosavi87" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mosavi87" alt="Mosavi87" /></a> </p>
  
 <!-- 
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : _𝙸𝚝 𝙴𝚗𝚍𝚜._** -->
