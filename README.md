@@ -4,6 +4,7 @@
 </h1>
 <p> 
   <img src="https://komarev.com/ghpvc/?username=Mosavi87&label=Profile%20views&color=0e75b6&style=flat" alt="Mosavi87" /> 
+  <br/>
   <img src="https://user-badge.committers.top/afghanistan_private/Mosavi87.svg" alt="Mosavi87" /> 
 </p>
 
