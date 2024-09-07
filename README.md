@@ -2,7 +2,7 @@
   <h3>👨‍💻 Full-Stack Developer | Web Application Enthusiast 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30" />
   </h3> <br />
-  Hi, I’m Mosavi, a passionate software developer focused on building efficient, user-friendly web applications. With a strong background in both frontend and backend development, I aim to create scalable and high-performance solutions. <br />
+  Hi, I’m Sayed Mahdi Mosavi, a passionate software developer focused on building efficient, user-friendly web applications. With a strong background in both frontend and backend development, I aim to create scalable and high-performance solutions. <br />
 
 ⚡ Experienced in full-stack web development <br />
 🔧 Skilled in server setup and performance optimization <br />
