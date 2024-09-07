@@ -1,6 +1,6 @@
 <h1 align="center">
   <h3>👨‍💻 Full-Stack Developer | Web Application Enthusiast</h3> <br />
-  Hi, I’m Mosavi, a passionate software developer focused on building efficient, user-friendly web applications. With a strong background in both frontend and backend development, I aim to create scalable and high-performance solutions.
+  Hi, I’m Mosavi, a passionate software developer focused on building efficient, user-friendly web applications. With a strong background in both frontend and backend development, I aim to create scalable and high-performance solutions. <br />
 
 ⚡ Experienced in full-stack web development <br />
 🔧 Skilled in server setup and performance optimization <br />
