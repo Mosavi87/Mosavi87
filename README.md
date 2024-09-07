@@ -1,5 +1,11 @@
 <h1 align="center">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! 
+  <h3>👨‍💻 Full-Stack Developer | Web Application Enthusiast</h3>
+  Hi, I’m Mosavi, a passionate software developer focused on building efficient, user-friendly web applications. With a strong background in both frontend and backend development, I aim to create scalable and high-performance solutions.
+
+⚡ Experienced in full-stack web development
+🔧 Skilled in server setup and performance optimization
+🌍 Committed to delivering seamless user experiences
+Feel free to explore my work and connect!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30" />
 </h1>
 <p> 
