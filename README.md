@@ -8,7 +8,6 @@
 🔧 Skilled in server setup and performance optimization <br />
 🌍 Committed to delivering seamless user experiences <br />
 Feel free to explore my work and connect! <br />
-
 🚀 What I Build <br />
 🌐 Web applications <br />
 📱 Mobile applications (iOS & Android) <br />
