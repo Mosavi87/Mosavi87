@@ -24,9 +24,9 @@ Feel free to explore my work and connect! <br />
 <!-- <a href="https://github-readme-stats.vercel.app">
     <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Mosavi87&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
     </a> -->
-<a href="https://github-readme-streak-stats.herokuapp.com">
+<!-- <a href="https://github-readme-streak-stats.herokuapp.com">
     <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Mosavi87&theme=onedark&hide_border=true"/>
-  </a>
+  </a> -->
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Mosavi87" alt="Mosavi87" />
