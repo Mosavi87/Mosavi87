@@ -24,14 +24,13 @@ Feel free to explore my work and connect! <br />
 <!-- <a href="https://github-readme-stats.vercel.app">
     <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Mosavi87&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
     </a> -->
-<!-- <a href="https://github-readme-streak-stats.herokuapp.com">
+<a href="https://github-readme-streak-stats.herokuapp.com">
     <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Mosavi87&theme=onedark&hide_border=true"/>
-  </a> -->
-<p align="left"> 
+  </a> 
+<!-- <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Mosavi87" alt="Mosavi87" />
   </a> 
-</p>
- 
-<!-- 
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : _𝙸𝚝 𝙴𝚗𝚍𝚜._** -->
+</p> -->
+  
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : _𝙸𝚝 𝙴𝚗𝚍𝚜._**
