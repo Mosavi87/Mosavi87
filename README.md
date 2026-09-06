@@ -8,6 +8,7 @@
 🔧 Skilled in server setup and performance optimization <br />
 🌍 Committed to delivering seamless user experiences <br />
 Feel free to explore my work and connect! <br />
+
 🚀 What I Build <br />
 🌐 Web applications <br />
 📱 Mobile applications (iOS & Android) <br />
@@ -16,7 +17,6 @@ Feel free to explore my work and connect! <br />
 🖥️ Server setup & maintenance <br />
 <br />
 </h1>
-
 
 <p> 
   <img src="https://komarev.com/ghpvc/?username=Mosavi87&label=Profile%20views&color=0e75b6&style=flat" alt="Mosavi87" /> 
