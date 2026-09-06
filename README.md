@@ -15,7 +15,6 @@ Feel free to explore my work and connect! <br />
 🗂️ Custom systems & CRM platforms <br />
 💳 Payment & API integrations <br />
 🖥️ Server setup & maintenance <br />
-<br />
 </h1>
 
 <p> 
