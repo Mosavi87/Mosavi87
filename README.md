@@ -8,28 +8,16 @@
 🔧 Skilled in server setup and performance optimization <br />
 🌍 Committed to delivering seamless user experiences <br />
 Feel free to explore my work and connect! <br />
+
+🚀 What I Build <br />
+🌐 Web applications <br />
+📱 Mobile applications (iOS & Android) <br />
+🗂️ Custom systems & CRM platforms <br />
+💳 Payment & API integrations <br />
+🖥️ Server setup & maintenance <br />
+<br />
 </h1>
 
-<div align="center">
-👨‍💻 Full-Stack Developer | Web Application Enthusiast
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30" /> </div>
-
-Hi, I'm Sayed Mahdi Mosavi, a passionate software developer focused on building efficient, user-friendly web applications. With a strong background in both frontend and backend development, I aim to create scalable and high-performance solutions.
-
-⚡ Experienced in full-stack web development
-🔧 Skilled in server setup and performance optimization
-🌍 Committed to delivering seamless user experiences
-
-Feel free to explore my work and connect!
-
-<br />
-🚀 What I Build
-🌐 Web applications
-📱 Mobile applications (iOS & Android)
-🗂️ Custom systems & CRM platforms
-💳 Payment & API integrations
-🖥️ Server setup & maintenance
-<br />
 
 <p> 
   <img src="https://komarev.com/ghpvc/?username=Mosavi87&label=Profile%20views&color=0e75b6&style=flat" alt="Mosavi87" /> 
